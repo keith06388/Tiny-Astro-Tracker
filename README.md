@@ -3,7 +3,7 @@ Equatorial tracker for cell phone astrophotography
 ### Features
 
 - Star tracking for backpacking astrophotography, rotation at sidereal tracking rate
-- Inegrated green laser diode for polar allignement
+- Integrated green laser diode for polar alignment
 - Selector switch for hemisphere direction
 - USB-C powered to minimize tracker weight
 - TMC 2300 driven bipolar stepper motor with microstepping for smooth and silent operation
@@ -26,8 +26,8 @@ Purchased:
 - Delrin 5mm bearing balls - https://www.aliexpress.us/item/3256803525375798.html
 
 3D Printed Parts in ASA:
-- Housing (paused printing to install threaed insert)
-- Output (paused printing to install threaed insert)
+- Housing (paused printing to install thread insert)
+- Output (paused printing to install thread insert)
 - Flex spline
 - Wave generator
 
